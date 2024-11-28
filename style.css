@@ -1,4 +1,8 @@
 h1 {
     background:black;
-    color:white;
+    color:red;
+}
+
+body {
+    background:greenyellow;
 }
